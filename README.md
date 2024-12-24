@@ -12,6 +12,7 @@ I. Giới thiệu đề tài
 •	Đề tài dễ làm, phù hợp để làm trong thời gian ngắn (2 tuần) làm phương án dự phòng cho project chính
 
 2. Phân tích đề tài
+
 a. Mục đích chính
 
 Xây dựng một chương trình quản lý sinh viên với giao diện đơn giản, dễ dàng sử dụng cho nhiều đối tượng khác nhau với đa dạng chức năng cho từng đối tượng.
