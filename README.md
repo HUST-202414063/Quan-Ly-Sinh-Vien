@@ -27,6 +27,7 @@ b. Đối tượng sử dụng
 •	Nhà trường
 
 •	Phụ huynh
+
 c. Chức năng chính
 
 •	Đăng nhập: Sinh viên, giảng viên, phụ huynh, phòng đào tạo
